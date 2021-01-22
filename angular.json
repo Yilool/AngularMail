@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "prueba"
+  "defaultProject": "prueba",
+  "cli": {
+    "analytics": false
+  }
 }
